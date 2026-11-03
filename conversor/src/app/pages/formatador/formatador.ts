@@ -1,6 +1,7 @@
 import { Component, inject, signal } from '@angular/core';
 import { Conversor } from '../../services/conversor';
 import { FormsModule } from '@angular/forms';
+import { Navbar } from '../../components/navbar/navbar';
 
 @Component({
   imports: [FormsModule],
