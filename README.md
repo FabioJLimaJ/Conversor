@@ -7,15 +7,9 @@ O projeto utiliza **Docker e Docker Compose** para facilitar a configuração e 
 ## Tecnologias utilizadas
 
 - **Angular 22** — Interface do usuário
-- **TypeScript** — Desenvolvimento do frontend
 - **Tailwind CSS** — Estilização
-- **Python 3.11** — Desenvolvimento do backend
 - **FastAPI** — API REST
-- **Pillow** — Processamento de imagens
-- **Aspose Words** — Conversão de documentos
-- **Docker** — Containerização
-- **Docker Compose** — Gerenciamento dos containers
-- **Nginx** — Servidor web do frontend
+
 
 ## Estrutura do projeto
 
