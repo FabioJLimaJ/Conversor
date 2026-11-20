@@ -4,7 +4,7 @@ import { Observable } from 'rxjs';
 @Service()
 export class Conversor {
 
-    private apiUrl = 'http://127.0.0.1:8000';
+    private apiUrl = '/api';
     private http = inject(HttpClient);
 
     enviarArquivo(formData: FormData):Observable<any> {
